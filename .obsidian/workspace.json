@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44b9a6e2e62e96bd",
+        "id": "9a22a5cb2a75ca2e",
         "type": "tabs",
         "children": [
           {
-            "id": "a79fe15af0b0c40c",
+            "id": "e4b12be8a0142602",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a85ae97da8fa9faa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Processos prescritivos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introdução.md",
+                "file": "Processos prescritivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introdução.md",
+                "file": "Processos prescritivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introdução.md"
+                "file": "Processos prescritivos.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a79fe15af0b0c40c",
+  "active": "a85ae97da8fa9faa",
   "lastOpenFiles": [
-    "README.md",
-    "Introdução.md"
+    "Introdução.md",
+    "Processos prescritivos.md",
+    "README.md"
   ]
 }
