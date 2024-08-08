@@ -62,10 +62,10 @@
     Resposta: Não, pois o desenvolvimento se apoia nos casos de uso.
 
 19. **É certo afirmar que em uma iteração do PU somente atividades concernentes a uma disciplina podem ser realizadas? Justifique.**  
-    Resposta:
+    Resposta: Não, pois são realizadas diversas atividades e disciplinas diferentes, de uma maneira que incremente o que tinhamos antes no projeto.
 
 20. **O ciclo construtivo do PU é desenvolvido em fases. No caso do RUP, as fases são denominadas Concepção, Elaboração, Construção e Transição. Isso faz desse um processo sequencial e traz ao modelo os mesmos problemas que encontramos no modelo cascata? Discuta a sua resposta.**  
-    Resposta:
+    Resposta: Apesar de apresentar uma sequencialidade de fases, o modelo não é sequencial, pois cada fase é composta de várias iterações. As fases servem como norte para saber em que ponto o software esta no desenvolvimento. Fases mais no início possuem maior incerteza e risco, já fases no final possuem menor incerteza e risco.
 
 21. **Que tipo de codificação pode-se mais facilmente encontrar na fase de “concepção” do PU, em que os requisitos são possivelmente ainda pouco amadurecidos?**  
     Resposta:
